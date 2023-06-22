@@ -1,4 +1,4 @@
-# Configuração automática do windows para desenvolvimento
+# Configuração automatizada de ambiente windows para desenvolvimento
 
 ## Pré requisitos
 
